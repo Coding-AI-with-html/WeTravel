@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112872027778",
+    "project_id": "wetravel-a93fa",
+    "storage_bucket": "wetravel-a93fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112872027778:android:a77163de7e66f029fca69b",
+        "android_client_info": {
+          "package_name": "com.example.wetravel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmg8x9ziNtYZFUv94Cepktkrf10Sxg0rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
