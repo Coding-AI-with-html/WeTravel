@@ -2,4 +2,6 @@
     <string name="app_name">WeTravel</string>
     <string name="detail_description">Lengvai suplanuokite savo tobulą pabėgimą! Nesvarbu, ar ieškote atpalaiduojančio pabėgimo paplūdimyje, nuotykių kupino žygio po kalnus ar kultūrinio miesto tyrinėjimo, mes jums padėsime.</string>
     <string name="greetings"> Prisijunkite prie mūsų parapijos \n atraskite savo pašventimą kartu su degradu Pijum</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
